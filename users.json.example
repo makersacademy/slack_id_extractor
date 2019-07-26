@@ -1,0 +1,35 @@
+[
+    {
+        "id": "U0311103A",
+        "team_id": "T0358591A",
+        "name": "exampleuser",
+        "deleted": false,
+        "profile": {
+            "title": "",
+            "phone": "",
+            "skype": "",
+            "real_name": "Example User",
+            "real_name_normalized": "Example User",
+            "display_name": "exampleuser",
+            "display_name_normalized": "exampleuser",
+            "fields": null,
+            "status_text": "",
+            "status_emoji": "",
+            "status_expiration": 0,
+            "avatar_hash": "g0o02939a",
+            "first_name": "Example",
+            "last_name": "User",
+            "image_24": "https:\/\/secure.gravatar.com\/avatar\/0d5ead9f99de845031.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0008-24.png",
+            "image_32": "https:\/\/secure.gravatar.com\/avatar\/0d5ead9f99de845031.jpg?s=32&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0008-32.png",
+            "image_48": "https:\/\/secure.gravatar.com\/avatar\/0d5ead9f99de845031.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0008-48.png",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0d5ead9f99de845031.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0008-72.png",
+            "image_192": "https:\/\/secure.gravatar.com\/avatar\/0d5ead9f99de845031.jpg?s=192&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0008-192.png",
+            "image_512": "https:\/\/secure.gravatar.com\/avatar\/0d5ead9f99de845031.jpg?s=512&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0008-512.png",
+            "status_text_canonical": "",
+            "team": "T0358591A"
+        },
+        "is_bot": false,
+        "is_app_user": false,
+        "updated": 1504876928
+    }
+]
